@@ -96,7 +96,8 @@ To provide a step-by-step guide for adding users to Azure DevOps, assigning appr
 
 ## Notes
 - Stakeholder users are free but have limited access.
-- Basic + Test Plans requires a paid license.
+- Basic + Test Plans requires a paid license. cost around 52 $ per month
+- Basic plan cost $6 per month
 - If a user reports they can’t access a feature, always check:
   - Are they in the organization?
   - Do they have the correct access level?
